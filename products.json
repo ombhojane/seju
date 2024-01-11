@@ -1,51 +1,74 @@
 [
     {
         "id": 1,
-        "name":" LD01 LOUNGE CHAIR",
-        "price": 200,
-        "image": "image/1.png"
+        "name":"Antique pearl",
+        "price": 2000,
+        "image": "images/antique pearl.jpg"
     },
     {
         "id": 2,
-        "name":" LD02 LOUNGE CHAIR",
-        "price": 250,
-        "image": "image/2.png"
+        "name":"Calcatta gold",
+        "price": 5000,
+        "image": "images/calcatta gold.jpg"
     },
     {
         "id": 3,
-        "name":" LD03 LOUNGE CHAIR",
-        "price": 290,
-        "image": "image/3.png"
+        "name":"Em_statuario ruby",
+        "price": 2900,
+        "image": "images/em_statuario ruby.jpg"
     },
     {
         "id": 4,
-        "name":" LD04 LOUNGE CHAIR",
-        "price": 200,
-        "image": "image/4.png"
+        "name":"Flicto",
+        "price": 2100,
+        "image": "images/flicto.jpg"
     },
     {
         "id": 5,
-        "name":" LD05 LOUNGE CHAIR",
-        "price": 300,
-        "image": "image/5.png"
+        "name":"Foresta",
+        "price": 3300,
+        "image": "images/foresta.jpg"
     },
     {
         "id": 6,
-        "name":" LD06 LOUNGE CHAIR",
-        "price": 200,
-        "image": "image/6.png"
+        "name":"Hunk white",
+        "price": 2000,
+        "image": "images/hunk white.jpg"
     },
     {
         "id": 7,
-        "name":" LD07 LOUNGE CHAIR",
-        "price": 200,
-        "image": "image/7.png"
+        "name":"Madona camel",
+        "price": 4200,
+        "image": "images/madona camel.jpg"
     },
     {
         "id": 8,
-        "name":" LD08 LOUNGE CHAIR",
-        "price": 200,
-        "image": "image/8.png"
+        "name":"Papier braccia beige",
+        "price": 5200,
+        "image": "images/papier braccia beige.jpg"
+    },
+    {
+        "id": 9,
+        "name":"Rare armani beige",
+        "price": 7200,
+        "image": "images/rare armani beige.jpg"
+    },
+    {
+        "id": 10,
+        "name":"Rare armani sand",
+        "price": 5200,
+        "image": "images/rare armani sand.jpg"
+    },
+    {
+        "id": 11,
+        "name":"Stuario kerol",
+        "price": 2090,
+        "image": "images/statuario kerol.jpg"
+    },
+    {
+        "id": 12,
+        "name":"Texas beige",
+        "price": 2060,
+        "image": "images/texas beige.jpg"
     }
-
 ]
